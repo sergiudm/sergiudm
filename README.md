@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on GUI agents
-- 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: sergiudm@outlook.com
 - 😄 Pronouns: he/him
 
