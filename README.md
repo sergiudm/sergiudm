@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on GUI agents
-- 📫 How to reach me: qhan16@ucsc.edu
+- 🔭 I’m currently working on reliable machine learning systems.
+- 📫 How to reach me: sergiudm@outlook.com
 - 😄 Pronouns: he/him
 
 > [!IMPORTANT]
