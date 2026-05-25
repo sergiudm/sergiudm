@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on reliable machine learning systems.
+- 🔭 I’m currently working on reliable computer vision.
 - 📫 How to reach me: sergiudm@outlook.com
 - 😄 Pronouns: he/him
 
