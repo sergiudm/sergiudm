@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on reliable computer vision.
-- 📫 How to reach me: sergiudm@outlook.com
+- 🔭 I’m currently working on computer use agents (CUAs).
+- 📫 How to reach me: qhan16@ucsc.edu
 - 😄 Pronouns: he/him
 
 > [!IMPORTANT]
