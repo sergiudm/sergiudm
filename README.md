@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on computer use agents (CUAs).
-- 📫 How to reach me: qhan16@ucsc.edu
-- 😄 Pronouns: he/him
+I’m a first-year PhD student in the VLAA Lab at UC Santa Cruz. I'm currently working on computer-use agents.
 
-> [!IMPORTANT]
-> There are only two kinds of people in the world: those who think there are only two kinds of people, and those who don’t. 🥹
+[Website](https://sergiudm.github.io/) · <qhan16@ucsc.edu> · he/him
